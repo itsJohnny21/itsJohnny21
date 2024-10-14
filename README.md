@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsJohnny21
 - 👀 I’m interested in science
-- 📚 Currently studying computer science at EMCC
+- 📚 Currently studying computer science at ASU
 - 🌱 I’m currently learning how to make a website
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 Reach me at jsalazar6421@gmail.com
